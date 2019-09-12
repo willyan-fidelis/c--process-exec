@@ -1,0 +1,10 @@
+C:\Users\willyan\source\repos\ProcessExec\ProcessExec\bin\Debug\ProcessExec.exe.config
+C:\Users\willyan\source\repos\ProcessExec\ProcessExec\bin\Debug\ProcessExec.exe
+C:\Users\willyan\source\repos\ProcessExec\ProcessExec\bin\Debug\ProcessExec.pdb
+C:\Users\willyan\source\repos\ProcessExec\ProcessExec\obj\Debug\ProcessExec.csprojResolveAssemblyReference.cache
+C:\Users\willyan\source\repos\ProcessExec\ProcessExec\obj\Debug\ProcessExec.Form1.resources
+C:\Users\willyan\source\repos\ProcessExec\ProcessExec\obj\Debug\ProcessExec.Properties.Resources.resources
+C:\Users\willyan\source\repos\ProcessExec\ProcessExec\obj\Debug\ProcessExec.csproj.GenerateResource.cache
+C:\Users\willyan\source\repos\ProcessExec\ProcessExec\obj\Debug\ProcessExec.csproj.CoreCompileInputs.cache
+C:\Users\willyan\source\repos\ProcessExec\ProcessExec\obj\Debug\ProcessExec.exe
+C:\Users\willyan\source\repos\ProcessExec\ProcessExec\obj\Debug\ProcessExec.pdb
